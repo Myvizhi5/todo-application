@@ -301,7 +301,7 @@ displayTasks();
 ```
 ## OUTPUT
 
-![alt text](image-1.png)
+![Output Screenshot](todo-application/image-1.png)
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
